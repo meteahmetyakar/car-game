@@ -5,5 +5,5 @@ The game was written using the windows forms and visual basic. I used database(M
 
 <br></br>
 <p align="center">
-  <img src="https://github.com/meteahmetyakar/car-game/blob/main/gameplay.gif" /> 
+  <img src="https://github.com/meteahmetyakar/car-game/blob/main/images/gameplay.gif" /> 
 </p>
