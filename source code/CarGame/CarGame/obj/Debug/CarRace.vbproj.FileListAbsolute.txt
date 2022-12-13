@@ -1,0 +1,13 @@
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.CarRace.resources
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.Resources.resources
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.HighScores.resources
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.vbproj.GenerateResource.cache
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.vbproj.CoreCompileInputs.cache
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\CarRace.exe.config
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\CarRace.exe
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\CarRace.pdb
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\CarRace.xml
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.exe
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.xml
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.pdb
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\CarRace.vbproj.AssemblyReference.cache

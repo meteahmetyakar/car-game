@@ -1,0 +1,26 @@
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe.config
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.pdb
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.xml
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.vbprojAssemblyReference.cache
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.Resources.resources
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.vbproj.GenerateResource.cache
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.vbproj.CoreCompileInputs.cache
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.exe
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.xml
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.pdb
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.YüksekSkorlar.resources
+C:\Users\Mete\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.ArabaYarisi.resources
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe.config
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.pdb
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.xml
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.vbproj.AssemblyReference.cache
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.Resources.resources
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.vbproj.GenerateResource.cache
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.vbproj.CoreCompileInputs.cache
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.exe
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.xml
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.pdb
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.CarRace.resources
+D:\Mete\Software\projects\my projects\Araba Yarışı\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.HighScores.resources
